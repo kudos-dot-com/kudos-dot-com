@@ -51,7 +51,8 @@
 | ![Bhaskar's github stats](https://github-readme-stats.vercel.app/api?username=kudos-dot-com&show_icons=true&theme=tokyonight) | ![Bhaskar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kudos-dot-com&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudos-dot-com&hide=css&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kudos-dot-com&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+  <h2>Here is a random gag that will make your day!!!</h2>
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
